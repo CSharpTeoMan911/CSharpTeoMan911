@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSharpTeoMan911
 - 👀 I’m interested in ... Technology, Science and Software Engineering
-- 🌱 I’m currently learning ... Software Engineering at the University of Bolton in UK
+- 🌱 I’m currently learning ... Software Engineering student
 - 💞️ I’m looking to collaborate on ... Software, Projects and Jobs
 
 <!---
