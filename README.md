@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CSharpTeoMan911
 - 👀 I’m interested in ... Technology, Science and Software Engineering
-- 🌱 I’m currently learning ... Software Engineering student
+- 🌱 I’m currently learning ... Software Engineering
 - 💞️ I’m looking to collaborate on ... Software, Projects and Jobs
 
 <!---
