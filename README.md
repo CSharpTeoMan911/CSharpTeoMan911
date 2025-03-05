@@ -19,6 +19,11 @@
     <br/>
     <img src="https://img.shields.io/badge/Databases%3A%20-blue"/>  <img src="https://img.shields.io/badge/MySQL%20-dodgerblue"/> <img src="https://img.shields.io/badge/Firebase%20-red"/>
   </div>
+
+  <div>
+    <br/>
+    <img src="https://img.shields.io/badge/Operating%20Systems%3A%20-yellow"/>  <img src="https://img.shields.io/badge/Windows%20-dodgerblue"/> <img src="https://img.shields.io/badge/Linux%20-red"/>
+  </div>
 </div>
 
 <br/>
