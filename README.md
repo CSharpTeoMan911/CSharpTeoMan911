@@ -39,7 +39,7 @@
   * **SourceForge:** https://sourceforge.net/projects/eva-ai/
  
 * ## WeatherPrediction 🌤️
-  * WeatherPrediction🌤️ is a ⚛️**React Native* weather forecasting app powered by 🤖 machine learning that predicts 🌡️temperatures for Global and London locations. The app predicts the 🌡️average temperature between the maximum and minimum values for a given day. The app uses an embedded 📈**Polynomial Multivariate Linear Regression** machine learning model that is built in 🐍**Python** using **Scikit Learn**, **Pandas**, and **Numpy**. The model is running in 🐍**Python** which, is subsequently running natively in the browser using 🕸️⚙️**WebAssembly** and doing interop with the main ⚛️**React Native** application using 🕸️👷**Web Workers** for distributing the processing load across multiple threads.
+  * WeatherPrediction🌤️ is a ⚛️**React Native** weather forecasting app powered by 🤖 machine learning that predicts 🌡️temperatures for Global and London locations. The app predicts the 🌡️average temperature between the maximum and minimum values for a given day. The app uses an embedded 📈**Polynomial Multivariate Linear Regression** machine learning model that is built in 🐍**Python** using **Scikit Learn**, **Pandas**, and **Numpy**. The model is running in 🐍**Python** which, is subsequently running natively in the browser using 🕸️⚙️**WebAssembly** and doing interop with the main ⚛️**React Native** application using 🕸️👷**Web Workers** for distributing the processing load across multiple threads.
   * **Repository Link:** https://github.com/CSharpTeoMan911/WeatherPrediction
   * **Live Website link:** [https://sourceforge.net/projects/eva-ai/](https://weatherprediction-d3c67.web.app)
 
