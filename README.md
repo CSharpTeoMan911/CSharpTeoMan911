@@ -33,7 +33,7 @@
   * **Live Website link:** https://theta-drive.org
 
 * ## Eva the AI assistant 🧠🤖
-  * Eva is an open source AI assistant. It is using 🗣️🤖 NLP powered speech recognition and a Natural Language Understanding engine to clasify and execute voice commands. The application can: 📲💻 open applications, 📱❌ close applications, 🔧🖥️ interact with the OS settings, 📷 take screenshots, 🤖 give queries to ChatGPT, ⏰ set timers, and 🔍🌐 search content on web applications. 
+  * Eva is an open-source AI assistant. It is using 🗣️🤖 NLP powered speech recognition and a Natural Language Understanding engine to clasify and execute voice commands. The application can: 📲💻 open applications, 📱❌ close applications, 🔧🖥️ interact with the OS settings, 📷 take screenshots, 🤖 give queries to ChatGPT, ⏰ set timers, and 🔍🌐 search content on web applications. 
   * **Repository Link:** https://github.com/CSharpTeoMan911/Eva
   * **Wiki link:** https://github.com/CSharpTeoMan911/Eva/wiki
   * **SourceForge:** https://sourceforge.net/projects/eva-ai/
