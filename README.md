@@ -2,7 +2,12 @@
 
 
 <div align="center">
-  <img align="center" src="https://github.com/user-attachments/assets/05389c7f-25ab-432b-8dda-56332f2021ab"/>
+  <img width="260" align="center" src="https://github.com/user-attachments/assets/05389c7f-25ab-432b-8dda-56332f2021ab"/>
+
+  <div>
+    <br/>
+    <img width="500" src="./profile-3d-contrib/profile-night-green.svg"/>
+  </div>
 
   <div>
     <br/>
@@ -23,11 +28,6 @@
   <div>
     <br/>
     <img src="https://img.shields.io/badge/Operating%20Systems%3A%20-yellow"/>&nbsp&nbsp<img src="https://img.shields.io/badge/Windows%20-dodgerblue"/> <img src="https://img.shields.io/badge/Linux%20-red"/>
-  </div>
-
-  <div>
-    <br/>
-    <img src="./profile-3d-contrib/profile-night-green.svg"/>
   </div>
 </div>
 
