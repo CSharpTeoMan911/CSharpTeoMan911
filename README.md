@@ -128,7 +128,7 @@
 
 # Top projects
 
-<img src="https://github.com/CSharpTeoMan911/CSharpTeoMan911/blob/output/github-contribution-grid-snake.svg"/> 
+<img src="https://github.com/CSharpTeoMan911/CSharpTeoMan911/blob/output/github-contribution-grid-snake-dark.svg"/> 
 
 * ## ThetaDrive 📁
   * ThetaDrive is an open-source alternative to Google Drive. 🔒 It has multiple security features such as: **Two-Step authentication**, **SHA-256 file encryption**, **encrypted local storage**, and many more. 🌐📁Theta FTP can perform multiple FTP features such as: ⬆️**file upload**, ⬇️**file download**, 📁**directory creation**, 📁🔀**file/directory relocation**, and 📂✏️**file/directory rename**.
