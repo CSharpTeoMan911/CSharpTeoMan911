@@ -1,34 +1,126 @@
-
-
-
 <div align="center">
-  <img width="240" align="center" src="https://github.com/user-attachments/assets/05389c7f-25ab-432b-8dda-56332f2021ab"/>
-
-  <div>
-    <br/>
-    <img width="500" src="./profile-3d-contrib/profile-night-green.svg"/>
-  </div>
-
-  <div>
-    <br/>
-    <br/>
-      <img src="https://img.shields.io/badge/Languages%3A%20-grey"/>&nbsp&nbsp<img src="https://img.shields.io/badge/c%23-gren"/> <img src="https://img.shields.io/badge/Python-yellow"/> <img src="https://img.shields.io/badge/Java-orange"/> <img src="https://img.shields.io/badge/JavaScript-red"/> <img src="https://img.shields.io/badge/SQL-blue"/> <img src="https://img.shields.io/badge/HTML-orange"/> <img src="https://img.shields.io/badge/XAML-dodgerblue"/>
-  </div>
+  <img width="240" align="center" src="https://github.com/user-attachments/assets/dc3c398f-62eb-40c8-8619-2b6bc270efce"/>
+  
+  <br/>
+  <br/>
+  <br/>
   
   <div>
-    <br/>
-    <img src="https://img.shields.io/badge/Frameworks%3A%20-white"/>&nbsp&nbsp<img src="https://img.shields.io/badge/React%20-dodgerblue"/> <img src="https://img.shields.io/badge/NodeJS%20-green"/> <img src="https://img.shields.io/badge/Blazor%20-violet"/> <img src="https://img.shields.io/badge/.NET%20Core%20-8A2BE2"/> <img src="https://img.shields.io/badge/WPF%20-blue"/> <img src="https://img.shields.io/badge/Windows%20Forms%20-blue"/>
+    <div>
+      <img align="center" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+    </div>
+    <div>
+      <img  align="center" width="500" src="./profile-3d-contrib/profile-night-green.svg"/>
+    </div>
+    <div align="center">
+      <img  align="center" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+    </div>
   </div>
 
-  <div>
-    <br/>
-    <img src="https://img.shields.io/badge/Databases%3A%20-blue"/>&nbsp&nbsp<img src="https://img.shields.io/badge/MySQL%20-dodgerblue"/> <img src="https://img.shields.io/badge/Firebase%20-red"/>
+  <br/>
+  <br/>
+  <br/>
+  
+  <div align="center">
+    <img  align="center" width="500" src="https://github.com/user-attachments/assets/9fb05601-d98b-4a65-a8e3-f07030643ff4"/>
   </div>
 
-  <div>
-    <br/>
-    <img src="https://img.shields.io/badge/Operating%20Systems%3A%20-yellow"/>&nbsp&nbsp<img src="https://img.shields.io/badge/Windows%20-dodgerblue"/> <img src="https://img.shields.io/badge/Linux%20-red"/>
-  </div>
+  <br/>
+  <br/>
+  <br/>
+
+
+  <table>
+    <thead>
+      <tr>
+        <th colspan="2">
+          <div align="center">
+            <img  align="center" width="650" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
+          </div>
+        </th>
+      </tr>
+    </thead>
+  <tbody>
+    <tr>
+      <td>
+        <div>
+          &nbsp
+          &nbsp
+          &nbsp
+            <img  align="center" width="25" src="https://github.com/user-attachments/assets/af4bf4d7-7a5a-4c27-96ba-b0a46b6f62bc"/>
+          &nbsp
+            <strong  align="center">
+              StackOverflow
+            </strong>
+        </div>
+      </td>
+      <td>
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        &nbsp
+        <img  align="center"  src="https://stackoverflow.com/users/flair/16587692.png?theme=dark"/>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>
+          Programming Languages
+        </strong>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css&perline=7" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>
+          Frameworks & Databases
+        </strong>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,bootstrap,mysql,firebase&perline=7" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <strong>
+          Operating Systems, Cloud, & IoT
+        </strong>
+      </td>
+      <td>
+        <p align="center">
+          <a href="https://skillicons.dev">
+            <img src="https://skillicons.dev/icons?i=windows,linux,gcp,raspberrypi&perline=7" />
+          </a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <div align="center">
+            <img  align="center" width="650" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
+        </div>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+
 </div>
 
 <br/>
