@@ -49,17 +49,9 @@
         </div>
       </td>
       <td>
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        &nbsp
-        <a href="https://stackoverflow.com/users/16587692/teodor-mihail"><img src="https://stackoverflow.com/users/flair/16587692.png?theme=dark" width="208" height="58" alt="profile for Teodor Mihail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Teodor Mihail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+        <div align="center">
+          <a href="https://stackoverflow.com/users/16587692/teodor-mihail"><img src="https://stackoverflow.com/users/flair/16587692.png?theme=dark" width="208" height="58" alt="profile for Teodor Mihail at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Teodor Mihail at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
+        </div>
       </td>
     </tr>
     <tr>
