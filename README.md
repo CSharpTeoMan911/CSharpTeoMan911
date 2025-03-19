@@ -2,31 +2,25 @@
   <img width="200" align="center" src="https://github.com/user-attachments/assets/dc3c398f-62eb-40c8-8619-2b6bc270efce"/>
   
   <br/>
-  <br/>
-  <br/>
   
   <div>
     <div>
-      <img align="center" height="25" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+      <img align="center" height="20" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
     </div>
     <div>
       <img  align="center" width="500" src="./profile-3d-contrib/profile-night-green.svg"/>
     </div>
     <div align="center">
-      <img  align="center" height="25" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+      <img  align="center" height="20" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
     </div>
   </div>
 
-  <br/>
-  <br/>
   <br/>
   
   <div align="center">
     <img  align="center" width="500" src="https://github.com/user-attachments/assets/9fb05601-d98b-4a65-a8e3-f07030643ff4"/>
   </div>
-
-  <br/>
-  <br/>
+  
   <br/>
 
 
