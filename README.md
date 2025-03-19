@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="240" align="center" src="https://github.com/user-attachments/assets/dc3c398f-62eb-40c8-8619-2b6bc270efce"/>
+  <img width="200" align="center" src="https://github.com/user-attachments/assets/dc3c398f-62eb-40c8-8619-2b6bc270efce"/>
   
   <br/>
   <br/>
@@ -7,13 +7,13 @@
   
   <div>
     <div>
-      <img align="center" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+      <img align="center" height="25" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
     </div>
     <div>
       <img  align="center" width="500" src="./profile-3d-contrib/profile-night-green.svg"/>
     </div>
     <div align="center">
-      <img  align="center" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
+      <img  align="center" height="25" width="500" src="https://github.com/user-attachments/assets/fca5f33f-e6f7-4d3e-9145-1968fb8a8cd5"/>
     </div>
   </div>
 
