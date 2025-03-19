@@ -40,10 +40,7 @@
   <tbody>
     <tr>
       <td>
-        <div>
-          &nbsp
-          &nbsp
-          &nbsp
+        <div align="center">
             <img  align="center" width="25" src="https://github.com/user-attachments/assets/af4bf4d7-7a5a-4c27-96ba-b0a46b6f62bc"/>
           &nbsp
             <strong  align="center">
@@ -67,9 +64,11 @@
     </tr>
     <tr>
       <td>
-        <strong>
-          Programming Languages
-        </strong>
+        <div align="center">
+          <strong>
+            Programming Languages
+          </strong>
+        </div>
       </td>
       <td>
         <p align="center">
@@ -81,9 +80,11 @@
     </tr>
     <tr>
       <td>
-        <strong>
-          Frameworks & Databases
-        </strong>
+        <div align="center">
+          <strong>
+            Frameworks & Databases
+          </strong>
+        </div>
       </td>
       <td>
         <p align="center">
@@ -95,9 +96,11 @@
     </tr>
     <tr>
       <td>
-        <strong>
-          Operating Systems, Cloud, & IoT
-        </strong>
+        <div align="center">
+          <strong>
+            Operating Systems, Cloud, & IoT
+          </strong>
+        </div>
       </td>
       <td>
         <p align="center">
