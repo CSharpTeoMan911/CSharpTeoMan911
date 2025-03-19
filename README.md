@@ -35,7 +35,7 @@
       <tr>
         <th colspan="2">
           <div align="center">
-            <img  align="center" width="650" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
+            <img  align="center" width="680" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
           </div>
         </th>
       </tr>
@@ -113,7 +113,7 @@
     <tr>
       <td colspan="2">
         <div align="center">
-            <img  align="center" width="650" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
+            <img  align="center" width="680" height="30" src="https://github.com/user-attachments/assets/762bd0e6-9e10-480a-a0d4-3171906a1bdf"/>
         </div>
       </td>
     </tr>
