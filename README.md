@@ -81,7 +81,7 @@
       <td>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,bootstrap,mysql,firebase&perline=7" />
+            <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,bootstrap,mysql,firebase,sklearn&perline=7" />
           </a>
         </p>
       </td>
