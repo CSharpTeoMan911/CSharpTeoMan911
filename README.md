@@ -65,7 +65,7 @@
       <td>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css&perline=7" />
+            <img src="https://skillicons.dev/icons?i=cs,java,python,js,html,css&perline=4" />
           </a>
         </p>
       </td>
@@ -81,7 +81,7 @@
       <td>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,bootstrap,mysql,firebase,sklearn&perline=8" />
+            <img src="https://skillicons.dev/icons?i=dotnet,react,nodejs,express,bootstrap,mysql,firebase,sklearn&perline=4" />
           </a>
         </p>
       </td>
@@ -97,7 +97,7 @@
       <td>
         <p align="center">
           <a href="https://skillicons.dev">
-            <img src="https://skillicons.dev/icons?i=windows,linux,gcp,raspberrypi&perline=7" />
+            <img src="https://skillicons.dev/icons?i=windows,linux,gcp,raspberrypi&perline=4" />
           </a>
         </p>
       </td>
