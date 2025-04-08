@@ -134,6 +134,19 @@
   * **Wiki link:** [Eva Wiki](https://github.com/CSharpTeoMan911/Eva/wiki)
   * **SourceForge:** [Eva SourceForge](https://sourceforge.net/projects/eva-ai/)
  
+* ## 📁 Sharpfile — Cross-Platform Terminal File Manager
+
+  * 🖥️ A blazing-fast, native **terminal-based file manager** built in **C#**, supporting both **Linux 🐧** and **Windows 🪟** — no external dependencies required!
+  * ⚛️ Inspired by modern front-end frameworks like **React**, Sharpfile brings **dynamic, responsive layouts** to the terminal.
+  * 🔧 **Features**:
+    * File operations: open, copy, move, rename, delete 📂📄✏️🗑️
+    *  Navigation and path jumping 🧭📍
+    *  Zero external libraries ⚙️
+    *  Lightweight, cross-platform native performance 🚀
+
+  * **Repository Link:** [Sharpfile Github](https://github.com/CSharpTeoMan911/Sharpfile)  
+  * **Releases Link:** [Sharpfile Releases](https://github.com/CSharpTeoMan911/Sharpfile/releases)
+ 
 * ## WeatherPrediction 🌤️
   * WeatherPrediction🌤️ is a ⚛️**React Native** weather forecasting app powered by 🤖 machine learning that predicts 🌡️temperatures for Global and London locations. The app predicts the 🌡️average temperature between the maximum and minimum values for a given day. The app uses an embedded 📈**Polynomial Multivariate Linear Regression** machine learning model that is built in 🐍**Python** using **Scikit Learn**, **Pandas**, and **Numpy**. The model is running in 🐍**Python** which, is subsequently running natively in the browser using 🕸️⚙️**WebAssembly** and doing interop with the main ⚛️**React Native** application using 🕸️👷**Web Workers** for distributing the processing load across multiple threads.
   * **Repository Link:** [WeatherPrediction Github](https://github.com/CSharpTeoMan911/WeatherPrediction)
