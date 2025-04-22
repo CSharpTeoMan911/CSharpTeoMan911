@@ -134,6 +134,17 @@
   * **Wiki link:** [Eva Wiki](https://github.com/CSharpTeoMan911/Eva/wiki)
   * **SourceForge:** [Eva SourceForge](https://sourceforge.net/projects/eva-ai/)
  
+* ## ProximityAlert 🚨📏
+  * ProximityAlert is a real-time proximity detection system powered by a Raspberry Pi 4 running Ubuntu Server 24.04 LTS. 🛠️ It utilizes ultrasonic sensors and a C#-based service to detect objects within a 30 cm radius. ⚡ The system supports headless operation for efficiency, and optionally launches a GNOME desktop when needed. 📡 Alerts are logged and stored in real time using Firebase Realtime Database and secure user authentication. 🔐
+
+  * 🔌 Features include:
+    * 📏 Object proximity detection using ultrasonic sensors
+    * 🔧 Headless Ubuntu server with optional GUI
+    * ☁️ Firebase integration for realtime cloud alerts
+    * 🛠️ Service-based architecture with systemd integration
+    * 📡 Remote access and SSH management
+  * Repository Link: ProximityAlert Github
+ 
 * ## 📁 Sharpfile — Cross-Platform Terminal File Manager
 
   * 🖥️ A blazing-fast, native **terminal-based file manager** built in **C#**, supporting both **Linux 🐧** and **Windows 🪟** — no external dependencies required!
