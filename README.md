@@ -143,7 +143,7 @@
     * ☁️ Firebase integration for realtime cloud alerts
     * 🛠️ Service-based architecture with systemd integration
     * 📡 Remote access and SSH management
-  * Repository Link: ProximityAlert Github
+  * Repository Link: [ProximityAlert Github](https://github.com/CSharpTeoMan911/Proximity_Alert)
  
 * ## 📁 Sharpfile — Cross-Platform Terminal File Manager
 
