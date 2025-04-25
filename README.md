@@ -155,8 +155,8 @@
     * 🔐 Secure authentication using Firebase Auth
     * 📡 Real-time alerts powered by Firebase
     * 📱 Mobile-friendly interface for easy access on any device
-    * 🔗 Repository Link: ProximityView Github
-    * 🌐 Live Demo: ProximityView Web App
+    * 🔗 Repository Link: [ProximityView Github](https://github.com/CSharpTeoMan911/proximity-view/blob/master/README.md)
+    * 🌐 Live Demo: [ProximityView Web App](https://proximity-alert-raspberrypi.web.app/)
  
 * ## 📁 Sharpfile — Cross-Platform Terminal File Manager
 
