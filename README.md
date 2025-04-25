@@ -144,6 +144,19 @@
     * 🛠️ Service-based architecture with systemd integration
     * 📡 Remote access and SSH management
   * Repository Link: [ProximityAlert Github](https://github.com/CSharpTeoMan911/Proximity_Alert)
+
+* ## 🚨 ProximityView — Real-Time Proximity Alert Web App
+  
+  * ProximityView is a web application that integrates with the ProximityAlert system, providing real-time proximity data in a user-friendly interface. Built using React and TypeScript, it allows users to monitor proximity alerts detected by a Raspberry Pi 4 running ultrasonic sensors. The app is hosted securely on Firebase, featuring authentication and a real-time database.
+
+  * 🔧 Features:
+    * ⚡ Real-time proximity monitoring via Firebase Realtime Database
+    * 🎨 Responsive UI built with React, TypeScript, HTML, and CSS
+    * 🔐 Secure authentication using Firebase Auth
+    * 📡 Real-time alerts powered by Firebase
+    * 📱 Mobile-friendly interface for easy access on any device
+    * 🔗 Repository Link: ProximityView Github
+    * 🌐 Live Demo: ProximityView Web App
  
 * ## 📁 Sharpfile — Cross-Platform Terminal File Manager
 
