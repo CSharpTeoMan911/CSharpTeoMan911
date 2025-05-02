@@ -133,6 +133,30 @@
   * **Repository Link:** [Eva Github](https://github.com/CSharpTeoMan911/Eva)
   * **Wiki link:** [Eva Wiki](https://github.com/CSharpTeoMan911/Eva/wiki)
   * **SourceForge:** [Eva SourceForge](https://sourceforge.net/projects/eva-ai/)
+    
+* ## 🍓📡 BerrySonar
+  * BerrySonar is a Linux-based C# application for Raspberry Pi that implements a DIY LIDAR system. It spins an HC-SR04 ultrasonic sensor on a 28BYJ-48 stepper motor to scan a 180° arc, measures object distances in real time, and streams angle+distance metadata securely to Firebase Realtime Database.
+
+  * 🔧 Features:
+    * 🌀 180° object scanning via rotating ultrasonic sensor
+    * 🔄 Precise stepper control with 28BYJ-48 & ULN2003A driver
+    * ☁️ Secure cloud sync to Firebase (super-admin write, admin read-only)
+    * 💻 C# (.NET 7) on any Raspberry Pi-compatible Linux distro
+
+  * Repository Link: [BerrySonar](https://github.com/CSharpTeoMan911/BerrySonar)
+
+* ## 🌐📊 BerrySonar View
+  
+  * BerrySonar View is a React-based web dashboard that subscribes to BerrySonar’s Firebase feed, uses trigonometry to convert polar data into canvas coordinates, and renders a smooth, radar-style visualization of live scan points.
+
+  * 🔧 Features:
+    * 🔗 Real-time Firebase Realtime Database integration
+    * 📡 Dynamic 180° sweep drawn on HTML5 Canvas
+    * 📐 Polar→Cartesian plotting (r × cos θ, r × sin θ with center offsets)
+    * 🎨 Configurable sweep speed, point colors & canvas dimensions
+    * 💨 Flicker-free updates via React hooks + requestAnimationFrame
+      
+  * Repository Link: [berry-sonar-view](https://github.com/CSharpTeoMan911/berry-sonar-view)
  
 * ## ProximityAlert 🚨📏
   * ProximityAlert is a real-time proximity detection system powered by a Raspberry Pi 4 running Ubuntu Server 24.04 LTS. 🛠️ It utilizes ultrasonic sensors and a C#-based service to detect objects within a 30 cm radius. ⚡ The system supports headless operation for efficiency, and optionally launches a GNOME desktop when needed. 📡 Alerts are logged and stored in real time using Firebase Realtime Database and secure user authentication. 🔐
@@ -144,19 +168,6 @@
     * 🛠️ Service-based architecture with systemd integration
     * 📡 Remote access and SSH management
   * Repository Link: [ProximityAlert Github](https://github.com/CSharpTeoMan911/Proximity_Alert)
-
-* ## 🚨 ProximityView — Real-Time Proximity Alert Web App
-  
-  * ProximityView is a web application that integrates with the ProximityAlert system, providing real-time proximity data in a user-friendly interface. Built using React and TypeScript, it allows users to monitor proximity alerts detected by a Raspberry Pi 4 running ultrasonic sensors. The app is hosted securely on Firebase, featuring authentication and a real-time database.
-
-  * 🔧 Features:
-    * ⚡ Real-time proximity monitoring via Firebase Realtime Database
-    * 🎨 Responsive UI built with React, TypeScript, HTML, and CSS
-    * 🔐 Secure authentication using Firebase Auth
-    * 📡 Real-time alerts powered by Firebase
-    * 📱 Mobile-friendly interface for easy access on any device
-    * 🔗 Repository Link: [ProximityView Github](https://github.com/CSharpTeoMan911/proximity-view/blob/master/README.md)
-    * 🌐 Live Demo: [ProximityView Web App](https://proximity-alert-raspberrypi.web.app/)
  
 * ## 📁 Sharpfile — Cross-Platform Terminal File Manager
 
