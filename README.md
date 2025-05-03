@@ -133,7 +133,34 @@
   * **Repository Link:** [Eva Github](https://github.com/CSharpTeoMan911/Eva)
   * **Wiki link:** [Eva Wiki](https://github.com/CSharpTeoMan911/Eva/wiki)
   * **SourceForge:** [Eva SourceForge](https://sourceforge.net/projects/eva-ai/)
-    
+ 
+* ## 📈 WeatherPrediction-ML
+  * WeatherPrediction-ML is the 🧠 machine learning core behind the 🌤️ WeatherPrediction app. This standalone 🐍 Python module performs Polynomial Multivariate Linear Regression to predict 🌡️ average daily temperatures (mean of max & min) for various locations including Global and London datasets.
+  * 🧪 Tech Stack:
+    * 🐍 Python 3
+    * 📊 Pandas for data preprocessing
+    * 🔢 NumPy for numerical computations
+    * 🧮 Scikit-learn for polynomial feature expansion and regression modeling
+
+  * ⚙️ Features:
+    * Trains on historical weather datasets using polynomial regression
+    * Supports multiple independent variables (e.g., humidity, wind, etc.)
+    * Outputs a serialized model file (📦 .pkl) ready for deployment
+    * Lightweight and optimized for execution in 🕸️ WebAssembly environments
+
+  * 📦 Integration:
+    * Used as the ML engine in the 🌤️ WeatherPrediction React Native app
+    * Compiled and run in-browser using Pyodide + WebAssembly
+    * Communicates with the frontend via 🧵 Web Workers for multithreaded performance
+
+  * 🔗 Links:
+    * Repository Link: [WeatherPrediction-ML Github](https://github.com/CSharpTeoMan911/TemperatureDataAnalysis/edit/main/README.md)
+
+* ## WeatherPrediction 🌤️
+  * WeatherPrediction🌤️ is a ⚛️**React Native** weather forecasting app powered by 🤖 machine learning that predicts 🌡️temperatures for Global and London locations. The app predicts the 🌡️average temperature between the maximum and minimum values for a given day. The app uses an embedded 📈**Polynomial Multivariate Linear Regression** machine learning model that is built in 🐍**Python** using **Scikit Learn**, **Pandas**, and **Numpy**. The model is running in 🐍**Python** which, is subsequently running natively in the browser using 🕸️⚙️**WebAssembly** and doing interop with the main ⚛️**React Native** application using 🕸️👷**Web Workers** for distributing the processing load across multiple threads.
+  * **Repository Link:** [WeatherPrediction Github](https://github.com/CSharpTeoMan911/WeatherPrediction)
+  * **Live Website link:** [WeatherPrediction](https://weatherprediction-d3c67.web.app)
+ 
 * ## 🍓📡 BerrySonar
   * BerrySonar is a Linux-based C# application for Raspberry Pi that implements a DIY LIDAR system. It spins an HC-SR04 ultrasonic sensor on a 28BYJ-48 stepper motor to scan a 180° arc, measures object distances in real time, and streams angle+distance metadata securely to Firebase Realtime Database.
 
@@ -182,9 +209,6 @@
   * **Repository Link:** [Sharpfile Github](https://github.com/CSharpTeoMan911/Sharpfile)  
   * **Releases Link:** [Sharpfile Releases](https://github.com/CSharpTeoMan911/Sharpfile/releases)
  
-* ## WeatherPrediction 🌤️
-  * WeatherPrediction🌤️ is a ⚛️**React Native** weather forecasting app powered by 🤖 machine learning that predicts 🌡️temperatures for Global and London locations. The app predicts the 🌡️average temperature between the maximum and minimum values for a given day. The app uses an embedded 📈**Polynomial Multivariate Linear Regression** machine learning model that is built in 🐍**Python** using **Scikit Learn**, **Pandas**, and **Numpy**. The model is running in 🐍**Python** which, is subsequently running natively in the browser using 🕸️⚙️**WebAssembly** and doing interop with the main ⚛️**React Native** application using 🕸️👷**Web Workers** for distributing the processing load across multiple threads.
-  * **Repository Link:** [WeatherPrediction Github](https://github.com/CSharpTeoMan911/WeatherPrediction)
-  * **Live Website link:** [WeatherPrediction](https://weatherprediction-d3c67.web.app)
+
 
 
