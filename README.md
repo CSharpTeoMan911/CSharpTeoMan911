@@ -141,13 +141,13 @@
   * Live Website: [WeatherPrediction]()
  
 * ## 🍓📡 BerrySonar
-  * BerrySonar is a Linux-based C# application for Raspberry Pi that implements a DIY LIDAR system. It spins an HC-SR04 ultrasonic sensor on a 28BYJ-48 stepper motor to scan a 180° arc, measures object distances in real time, and streams angle+distance metadata securely to Firebase Realtime Database.
+  * BerrySonar is a Linux-based C# application for Raspberry Pi that implements a DIY LIDAR-like system. It spins an HC-SR04 ultrasonic sensor on a 28BYJ-48 stepper motor to scan a 180° arc, measures object distances in real time, and streams angle+distance metadata securely to Firebase Realtime Database.
 
   * 🔧 Features:
     * 🌀 180° object scanning via rotating ultrasonic sensor
     * 🔄 Precise stepper control with 28BYJ-48 & ULN2003A driver
     * ☁️ Secure cloud sync to Firebase (super-admin write, admin read-only)
-    * 💻 C# (.NET 7) on any Raspberry Pi-compatible Linux distro
+    * 💻 C# (.NET 8) on any Raspberry Pi-compatible Linux distro
 
   * Repository Link: [BerrySonar](https://github.com/CSharpTeoMan911/BerrySonar)
 
