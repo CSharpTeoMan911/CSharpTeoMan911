@@ -138,7 +138,7 @@
   * WeatherPrediction-ML is the 🧠 Python machine learning engine behind 🌤️ WeatherPrediction. It predicts 🌡️ average daily temperatures (mean of max & min) using 📈 Polynomial Multivariate Linear Regression. The model is built using 🐍 Python, with Scikit-learn, Pandas, and NumPy. It’s compiled to run in the browser via 🕸️⚙️ WebAssembly and works seamlessly with ⚛️ React Native through 🕸️👷 Web Workers, enabling efficient multi-threaded execution.
   * Repository Link (ML Model): [WeatherPrediction-ML GitHub](https://github.com/CSharpTeoMan911/TemperatureDataAnalysis)
   * Repository Link (Frontend): [WeatherPrediction GitHub](https://github.com/CSharpTeoMan911/WeatherPrediction)
-  * Live Website: [WeatherPrediction]()
+  * Live Website: [WeatherPrediction](https://weatherprediction-d3c67.web.app)
  
 * ## 🍓📡 BerrySonar
   * BerrySonar is a Linux-based C# application for Raspberry Pi that implements a DIY LIDAR-like system. It spins an HC-SR04 ultrasonic sensor on a 28BYJ-48 stepper motor to scan a 180° arc, measures object distances in real time, and streams angle+distance metadata securely to Firebase Realtime Database.
