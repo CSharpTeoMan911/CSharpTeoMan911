@@ -21,7 +21,6 @@ C#, Python, JavaScript, React, Node.js, .NET, SQL/MySQL, HTML/CSS, Git/GitHub, C
 ---
 
 ## Highlighted Projects
-*(Concise — click repo for technical depth)*
 
 ### Eva — Voice-Controlled Assistant
 Opens apps, takes screenshots, and searches the web via voice commands.  
@@ -34,6 +33,10 @@ Converts sensor data into live visual maps via a web dashboard.
 ### ProximityAlert — Object Detection System
 Detects nearby objects and logs alerts in real time.  
 [Repo →](https://github.com/CSharpTeoMan911/Proximity_Alert)
+
+### Sharpfile — Cross-Platform Terminal File Manager
+Lightweight tool to efficiently navigate and organize files on Linux and Windows.  
+[Repo →](https://github.com/CSharpTeoMan911/Sharpfile)
 
 ---
 
