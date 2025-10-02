@@ -1,6 +1,6 @@
 <div align="center">
   <img width="140" src="https://github.com/user-attachments/assets/dc3c398f-62eb-40c8-8619-2b6bc270efce" alt="Teodor Mihail">
-  <h2>Teodor Mihail Moldoveanu</h2>
+  <h2>Teodor Mihail</h2>
   <p>Full-Stack Developer • C#, Python, React • IoT & Cloud Enthusiast</p>
   <p>
     <a href="https://github.com/CSharpTeoMan911">GitHub</a> •
